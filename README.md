@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **English Language, NodeJS**
 
-- 💬 Ask me about **React, JS, HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, REDUX**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
