@@ -20,9 +20,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maroufebrahimi&count_private=true)
 
-  
-  [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Harlok)](https://github.com/anuraghazra/github-readme-stats)
-  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maroufebrahimi&" alt="maroufebrahimi" /></p>
