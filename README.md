@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marouf Ebrahimi</h1>
 <h3 align="center">A passionate frontend developer from Afghanistan</h3>
 
-- 🌱 I’m currently learning **English Language, NodeJS**
+- 🌱 I’m currently learning **....**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT, REDUX**
 
