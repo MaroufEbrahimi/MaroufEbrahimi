@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marouf Ebrahimi</h1>
-<h3 align="center">A passionate frontend developer from Afghanistan</h3>
+<h3 align="center">A passionate Full_Stack_Developer from Afghanistan</h3>
 
 - 🌱 I’m currently learning **....**
 
