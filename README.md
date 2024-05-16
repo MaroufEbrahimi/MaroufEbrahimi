@@ -47,6 +47,17 @@ Hello there! 👋 I'm seasoned full-stack developer with a passion for creating 
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=maroufebrahimi&theme=" alt="maroufebrahimi" /></p>
 
+
+<h3>Starts 2</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maroufebrahimi&show_icons=true&locale=en&layout=compact" alt="maroufebrahimi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maroufebrahimi&show_icons=true&locale=en" alt="maroufebrahimi" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maroufebrahimi&" alt="maroufebrahimi" /></p>
+
+
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/maroufebrahimi">
