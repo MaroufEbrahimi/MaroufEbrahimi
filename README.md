@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Marouf Ebrahimi</h1>
 <h3 align="center">A passionate Software Engineer from Afghanistan</h3>
 
-Hello there! 👋 I'm seasoned full-stack developer with a passion for creating seamless and engaging web applications. My journey in the world of coding has been a thrilling adventure, marked by continuous learning and a commitment to delivering high-quality software solutions.
+Hello there! 👋 I'm seasoned Software Engineer with a passion for creating seamless and engaging web applications. My journey in the world of coding has been a thrilling adventure, marked by continuous learning and a commitment to delivering high-quality software solutions.
 
-- 🔭 I’m currently working on **University Management System**
+- 🔭 I’m currently working on **UMS**
 - 🤝 I’m looking for help with **MS**
 - 🌱 I’m currently learning **...**
 - 👨‍💻 All of my projects are available at **GitHub Repo**
