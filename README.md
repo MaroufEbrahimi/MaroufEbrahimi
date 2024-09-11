@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Marouf Ebrahimi</h1>
-<h3 align="center">A passionate Full_Stack_Developer from Afghanistan</h3>
+<h3 align="center">A passionate Software Engineer from Afghanistan</h3>
 
 Hello there! 👋 I'm seasoned full-stack developer with a passion for creating seamless and engaging web applications. My journey in the world of coding has been a thrilling adventure, marked by continuous learning and a commitment to delivering high-quality software solutions.
 
